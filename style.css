@@ -1,0 +1,32 @@
+body{
+    font-family: 'Londrina Outline';
+    height: 900px;
+}
+
+.ZeH1{
+    font-size: 50px;
+}
+
+.Names{
+    font-size: 27.5px;
+}
+
+.Zobject{
+    font-size: 25px
+}
+
+.Zaccuracy{
+    font-size: 25px
+}
+
+#My1Footer{
+    font-size: 15.75pt;
+    color: whitesmoke;
+    background-color: navy;
+    position:fixed;
+    bottom:0px;
+    width: 100%;
+    text-align: center;
+    z-index:999999999999999999999999999999999999999999999999999999999999999999999999999999999999;
+
+}
